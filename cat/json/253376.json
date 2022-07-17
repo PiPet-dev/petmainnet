@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #253376",
+  "description": "",
+  "image": "/cat/253376.png",
+  "dna": "bf9d89f623d66bca41b07be3b2155d5a90ea68d9",
+  "edition": 253376,
+  "date": 1658095912916,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "春日青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "赖皮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "斑马"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "异光蓝"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "大熊猫"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小杀气"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异白"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "鱼纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
