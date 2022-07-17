@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #199063",
+  "description": "",
+  "image": "/cat/199063.png",
+  "dna": "060b1486d0ca3c3a5a1aab76de20cf5e9518909d",
+  "edition": 199063,
+  "date": 1658077405274,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "深褐"
+    },
+    {
+      "trait_type": "四只",
+      "value": "佩奇"
+    },
+    {
+      "trait_type": "身体",
+      "value": "浅蟹灰"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "异光蓝"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "爱琴海"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小傻子"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异橙"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "鱼纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

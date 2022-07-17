@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #198520",
+  "description": "",
+  "image": "/cat/198520.png",
+  "dna": "794057f8552e0d3d702618a1e3ad61e4fc2a4a69",
+  "edition": 198520,
+  "date": 1658077242699,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "静谧蓝"
+    },
+    {
+      "trait_type": "四只",
+      "value": "赖皮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "日落黄"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "蟹青"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "大熊猫"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小海盗"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异橙"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "峡谷纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

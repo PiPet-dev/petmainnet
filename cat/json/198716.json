@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #198716",
+  "description": "",
+  "image": "/cat/198716.png",
+  "dna": "6f0139e0b3aa4c906c0d708387bedc5fc7f7fa4b",
+  "edition": 198716,
+  "date": 1658077302862,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "静谧蓝"
+    },
+    {
+      "trait_type": "四只",
+      "value": "灰太狼"
+    },
+    {
+      "trait_type": "身体",
+      "value": "日落黄"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "异光蓝"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "爱琴海"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "黑老大"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异白"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "冰纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

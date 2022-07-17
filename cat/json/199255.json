@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #199255",
+  "description": "",
+  "image": "/cat/199255.png",
+  "dna": "c01479855d5d0b9ac083676bf4b23c7c0e52a87f",
+  "edition": 199255,
+  "date": 1658077461359,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "雪青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "赖皮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "浅蟹灰"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "灰豆绿"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "爱琴海"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "黑老大"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异白"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "峡谷纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
