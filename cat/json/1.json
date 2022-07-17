@@ -2,17 +2,17 @@
   "name": "PiPet #1",
   "description": "",
   "image": "/cat/1.png",
-  "dna": "14b046403846348c7e29291655d9bee77dfbd566",
+  "dna": "60d0b0ef1d1ca3f0db9b5befe1a96acde397c00f",
   "edition": 1,
-  "date": 1658024276428,
+  "date": 1658024467584,
   "attributes": [
     {
       "trait_type": "尾巴",
-      "value": "深褐"
+      "value": "雪青"
     },
     {
       "trait_type": "四只",
-      "value": "花轮"
+      "value": "灰太狼"
     },
     {
       "trait_type": "身体",
@@ -20,15 +20,15 @@
     },
     {
       "trait_type": "耳朵",
-      "value": "深褐灰"
+      "value": "变异粉"
     },
     {
       "trait_type": "脸型",
-      "value": "大熊猫"
+      "value": "牙黄"
     },
     {
       "trait_type": "眼睛",
-      "value": "小傻子"
+      "value": "黑老大"
     },
     {
       "trait_type": "鼻子",
@@ -36,7 +36,7 @@
     },
     {
       "trait_type": "胡须",
-      "value": "鱼纹"
+      "value": "冰纹"
     }
   ],
   "compiler": "HashLips Art Engine"
