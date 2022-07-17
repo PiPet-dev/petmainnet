@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #185283",
+  "description": "",
+  "image": "/cat/185283.png",
+  "dna": "8e6cd853f3c221bba6d8fa9de383043399809f95",
+  "edition": 185283,
+  "date": 1658073212542,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "春日青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "花轮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "斑马"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "异光蓝"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "牙黄"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小傻子"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "紫灰"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "冰纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

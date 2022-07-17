@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #185474",
+  "description": "",
+  "image": "/cat/185474.png",
+  "dna": "9e604dfdf502fbb459c82e5d894c4ebfec63e41e",
+  "edition": 185474,
+  "date": 1658073266465,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "异域红"
+    },
+    {
+      "trait_type": "四只",
+      "value": "灰太狼"
+    },
+    {
+      "trait_type": "身体",
+      "value": "浅钴蓝"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "变异粉"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "大熊猫"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小惊讶"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "蟹青"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "冰纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

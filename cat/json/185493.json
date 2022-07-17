@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #185493",
+  "description": "",
+  "image": "/cat/185493.png",
+  "dna": "c62502d01e23ea7ddad239027b869e6106cda02b",
+  "edition": 185493,
+  "date": 1658073271821,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "静谧蓝"
+    },
+    {
+      "trait_type": "四只",
+      "value": "灰太狼"
+    },
+    {
+      "trait_type": "身体",
+      "value": "浅钴蓝"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "深灰"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "牙黄"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "黑老大"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "褐色"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "八字纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
