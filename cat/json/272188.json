@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #272188",
+  "description": "",
+  "image": "/cat/272188.png",
+  "dna": "cf2352810b49d179a088f14bf4a0aa486e4571ba",
+  "edition": 272188,
+  "date": 1658102803284,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "异域红"
+    },
+    {
+      "trait_type": "四只",
+      "value": "赖皮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "斑马"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "变异粉"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "鹅黄"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小惊讶"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "褐色"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "两道杠"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

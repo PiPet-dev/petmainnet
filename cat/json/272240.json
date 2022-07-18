@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #272240",
+  "description": "",
+  "image": "/cat/272240.png",
+  "dna": "64568fbfe5c2c2c8d5bc2d4e04ea4d7b897a6d83",
+  "edition": 272240,
+  "date": 1658102820564,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "雪青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "佩奇"
+    },
+    {
+      "trait_type": "身体",
+      "value": "海蟹青"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "蟹青"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "浅褐"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小傻子"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "蟹青"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "两道杠"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
