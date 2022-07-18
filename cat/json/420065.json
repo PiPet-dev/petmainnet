@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #420065",
+  "description": "",
+  "image": "/cat/420065.png",
+  "dna": "cfa67c0740168cbadb5ff5faa5b36ae0aeca116b",
+  "edition": 420065,
+  "date": 1658167515677,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "雪青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "巴鲁"
+    },
+    {
+      "trait_type": "身体",
+      "value": "日落黄"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "变异粉"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "粉晶"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小惊讶"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "蟹青"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "八字纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
