@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #378792",
+  "description": "",
+  "image": "/cat/378792.png",
+  "dna": "5e2d13292e00658e86bff2b40dc69bb9c5400b0c",
+  "edition": 378792,
+  "date": 1658147580826,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "异域红"
+    },
+    {
+      "trait_type": "四只",
+      "value": "花轮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "浅钴蓝"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "深灰"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "牙黄"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小傻子"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异白"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "八字纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
