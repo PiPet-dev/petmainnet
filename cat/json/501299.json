@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #501299",
+  "description": "",
+  "image": "/cat/501299.png",
+  "dna": "e21bc3fde7bb1c55ec5e583a7ed9e2fc55734527",
+  "edition": 501299,
+  "date": 1658204089473,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "异域红"
+    },
+    {
+      "trait_type": "四只",
+      "value": "青花瓷"
+    },
+    {
+      "trait_type": "身体",
+      "value": "斑马"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "深灰"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "大熊猫"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小海盗"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "米驼"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "两道杠"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

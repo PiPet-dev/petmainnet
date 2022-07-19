@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #500912",
+  "description": "",
+  "image": "/cat/500912.png",
+  "dna": "cf10b6c6b759093815622f52dc2dc18312d002d1",
+  "edition": 500912,
+  "date": 1658203935709,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "雪青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "赖皮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "高级黑"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "变异粉"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "粉晶"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小海盗"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异橙"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "鱼纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

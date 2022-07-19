@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #501339",
+  "description": "",
+  "image": "/cat/501339.png",
+  "dna": "e89fecf8534106307101d9cadcf7177834ec5bea",
+  "edition": 501339,
+  "date": 1658204111714,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "春日青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "佩奇"
+    },
+    {
+      "trait_type": "身体",
+      "value": "浅蟹灰"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "变异粉"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "浅褐"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小惊讶"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异橙"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "八字纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

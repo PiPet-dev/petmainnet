@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #500766",
+  "description": "",
+  "image": "/cat/500766.png",
+  "dna": "53df9a03dd9affd8b0223571a48d0d94123e2e95",
+  "edition": 500766,
+  "date": 1658203843426,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "深褐"
+    },
+    {
+      "trait_type": "四只",
+      "value": "青花瓷"
+    },
+    {
+      "trait_type": "身体",
+      "value": "高级黑"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "灰豆绿"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "大熊猫"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小惊讶"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "褐色"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "峡谷纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
