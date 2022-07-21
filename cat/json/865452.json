@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #865452",
+  "description": "",
+  "image": "/cat/865452.png",
+  "dna": "ba1f319ae6aa75985cc15ca0b51f9c92f63cf2fe",
+  "edition": 865452,
+  "date": 1658422445964,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "静谧蓝"
+    },
+    {
+      "trait_type": "四只",
+      "value": "赖皮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "斑马"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "深灰"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "爱琴海"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小脾气"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "蟹青"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "斑马纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

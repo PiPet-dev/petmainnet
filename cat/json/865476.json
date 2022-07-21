@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #865476",
+  "description": "",
+  "image": "/cat/865476.png",
+  "dna": "c84e2f2a5d549cf756b82476d0e8ca8ecbecb3e7",
+  "edition": 865476,
+  "date": 1658422454826,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "深褐"
+    },
+    {
+      "trait_type": "四只",
+      "value": "灰太狼"
+    },
+    {
+      "trait_type": "身体",
+      "value": "浅钴蓝"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "异光蓝"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "鹅黄"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小惊讶"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "米驼"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "斑马纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
