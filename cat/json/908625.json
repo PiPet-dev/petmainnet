@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #908625",
+  "description": "",
+  "image": "/cat/908625.png",
+  "dna": "4128b99731da037e6995821235d95c4a23d0fd9b",
+  "edition": 908625,
+  "date": 1658453633180,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "异域红"
+    },
+    {
+      "trait_type": "四只",
+      "value": "青花瓷"
+    },
+    {
+      "trait_type": "身体",
+      "value": "斑马"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "深褐灰"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "牙黄"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小杀气"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异白"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "斑马纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
