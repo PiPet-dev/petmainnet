@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #912117",
+  "description": "",
+  "image": "/cat/912117.png",
+  "dna": "f2a20d2434999b31027faee1be29b4f80c2db64b",
+  "edition": 912117,
+  "date": 1658455751101,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "雪青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "花轮"
+    },
+    {
+      "trait_type": "身体",
+      "value": "日落黄"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "灰豆绿"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "浅褐"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小傻子"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异白"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "两道杠"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

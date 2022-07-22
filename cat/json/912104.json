@@ -1,0 +1,43 @@
+{
+  "name": "PiPet #912104",
+  "description": "",
+  "image": "/cat/912104.png",
+  "dna": "5e8f7d73d1206f4d32fa9a644de9894d7ccf3def",
+  "edition": 912104,
+  "date": 1658455745789,
+  "attributes": [
+    {
+      "trait_type": "尾巴",
+      "value": "春日青"
+    },
+    {
+      "trait_type": "四只",
+      "value": "巴鲁"
+    },
+    {
+      "trait_type": "身体",
+      "value": "日落黄"
+    },
+    {
+      "trait_type": "耳朵",
+      "value": "异光蓝"
+    },
+    {
+      "trait_type": "脸型",
+      "value": "鹅黄"
+    },
+    {
+      "trait_type": "眼睛",
+      "value": "小杀气"
+    },
+    {
+      "trait_type": "鼻子",
+      "value": "变异橙"
+    },
+    {
+      "trait_type": "胡须",
+      "value": "峡谷纹"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
